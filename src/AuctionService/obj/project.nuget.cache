@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBJ2EWqSGNI=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\microservice-dotnet\\src\\AuctionService\\AuctionService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
